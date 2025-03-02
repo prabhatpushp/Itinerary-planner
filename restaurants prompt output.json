@@ -1,0 +1,23 @@
+[
+    { "restaurant_name": "The Sidewalk Cafe", "address": "1401 Ocean Front Walk, Venice, CA 90291", "cuisine": "American", "rating": 4.2, "distance": 0.1, "average_price_range": "15-30" },
+    { "restaurant_name": "The Whaler", "address": "1100 Pacific Ave, Venice, CA 90291", "cuisine": "Seafood", "rating": 4.1, "distance": 0.2, "average_price_range": "20-40" },
+    { "restaurant_name": "Gjusta", "address": "320 Sunset Ave, Venice, CA 90291", "cuisine": "Artisanal Bakery", "rating": 4.5, "distance": 0.3, "average_price_range": "10-20" },
+    { "restaurant_name": "The Tasting Kitchen", "address": "1633 Abbot Kinney Blvd, Venice, CA 90291", "cuisine": "New American", "rating": 4.4, "distance": 0.4, "average_price_range": "25-40" },
+    { "restaurant_name": "Gjelina", "address": "1429 Abbot Kinney Blvd, Venice, CA 90291", "cuisine": "New American", "rating": 4.4, "distance": 0.5, "average_price_range": "20-40" },
+    { "restaurant_name": "The Butcher's Daughter", "address": "1205 Abbot Kinney Blvd, Venice, CA 90291", "cuisine": "Cafe", "rating": 4.4, "distance": 0.5, "average_price_range": "10-20" },
+    { "restaurant_name": "Intelligentsia Coffee", "address": "1331 Abbot Kinney Blvd, Venice, CA 90291", "cuisine": "Coffee Shop", "rating": 4.4, "distance": 0.5, "average_price_range": "5-10" },
+    { "restaurant_name": "Wabi Sabi", "address": "1630 Abbot Kinney Blvd, Venice, CA 90291", "cuisine": "Japanese", "rating": 4.3, "distance": 0.5, "average_price_range": "15-30" },
+    { "restaurant_name": "The Otheroom", "address": "1200 Abbot Kinney Blvd, Venice, CA 90291", "cuisine": "American", "rating": 4.2, "distance": 0.5, "average_price_range": "15-30" },
+    { "restaurant_name": "C&O Trattoria", "address": "31 Washington Blvd, Marina del Rey, CA 90292", "cuisine": "Italian", "rating": 4.2, "distance": 1.1, "average_price_range": "20-40" },
+    { "restaurant_name": "SALT Restaurant & Bar", "address": "1550 2nd St, Santa Monica, CA 90404", "cuisine": "American", "rating": 4.1, "distance": 1.5, "average_price_range": "20-40" },
+    { "restaurant_name": "The Albright", "address": "258 Santa Monica Pier, Santa Monica, CA 90401", "cuisine": "Seafood", "rating": 4.1, "distance": 2.1, "average_price_range": "20-40" },
+    { "restaurant_name": "Blue Plate Oysterette", "address": "1355 2nd St, Santa Monica, CA 90404", "cuisine": "Seafood", "rating": 4.1, "distance": 2.2, "average_price_range": "20-40" },
+    { "restaurant_name": "The Lobster", "address": "1602 Ocean Ave, Santa Monica, CA 90401", "cuisine": "Seafood", "rating": 4.1, "distance": 2.3, "average_price_range": "30-50" },
+    { "restaurant_name": "Rustic Canyon", "address": "1119 Wilshire Blvd, Santa Monica, CA 90401", "cuisine": "New American", "rating": 4.4, "distance": 2.4, "average_price_range": "25-40" },
+    { "restaurant_name": "Hillstone", "address": "202 Wilshire Blvd, Santa Monica, CA 90401", "cuisine": "American", "rating": 4.1, "distance": 2.5, "average_price_range": "20-40" },
+    { "restaurant_name": "The Curious Palate", "address": "395 Santa Monica Pier, Santa Monica, CA 90401", "cuisine": "American", "rating": 4.1, "distance": 2.6, "average_price_range": "15-30" },
+    { "restaurant_name": "Bubba Gump Shrimp Co.", "address": "301 Santa Monica Pier, Santa Monica, CA 90401", "cuisine": "Seafood", "rating": 4.0, "distance": 2.7, "average_price_range": "20-40" },
+    { "restaurant_name": "The Crab Daddy", "address": "13555 Fiji Way, Marina del Rey, CA 90292", "cuisine": "Seafood", "rating": 4.0, "distance": 2.8, "average_price_range": "20-40" },
+    { "restaurant_name": "El Torito Grill", "address": "2424 Main St, Santa Monica, CA 90405", "cuisine": "Mexican", "rating": 4.0, "distance": 3.1, "average_price_range": "15-30" },
+    { "restaurant_name": "The Britannia Pub", "address": "318 Santa Monica Blvd, Santa Monica, CA 90401", "cuisine": "British", "rating": 4.0, "distance": 3.2, "average_price_range": "15-30" }
+]

@@ -1,0 +1,18 @@
+Get a list of restaurants near {place} in city {city}. Include the following information for each restaurant:
+
+Restaurant name Address 
+Cuisine type 
+Rating (out of 5 stars) 
+Distance from {place} (in miles) 
+Average price range (in USD) 
+
+Return the list of restaurants in JSON format, with the following schema:
+[ { "restaurant_name": string, "address": string, "cuisine": string, "rating": number (out of 5), "distance": number (in miles), "average_price_range": string (e.g. "10-20") }, ... ]
+
+I want accurate outputs. Please write at least 20 restaurants in JSON format
+
+
+INPUTS
+==================
+place = Venice Beach Boardwalk 
+city = Los Angeles

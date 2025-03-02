@@ -1,0 +1,149 @@
+[
+    {
+        "hotel_name": "Hotel Erwin",
+        "address": "1697 Pacific Ave, Venice, CA 90291",
+        "rating": 4.5,
+        "distance": 0.2,
+        "average_price": 250
+    },
+    {
+        "hotel_name": "The Kinney Venice Beach",
+        "address": "737 Washington Blvd, Venice, CA 90292",
+        "rating": 4.4,
+        "distance": 0.4,
+        "average_price": 220
+    },
+    {
+        "hotel_name": "Venice Beach House",
+        "address": "15 30th Ave, Venice, CA 90291",
+        "rating": 4.6,
+        "distance": 0.5,
+        "average_price": 280
+    },
+    {
+        "hotel_name": "Inn at Marina del Rey",
+        "address": "737 Washington Blvd, Marina del Rey, CA 90292",
+        "rating": 4.3,
+        "distance": 1.5,
+        "average_price": 200
+    },
+    {
+        "hotel_name": "Marina del Rey Hotel",
+        "address": "4375 Admiralty Way, Marina del Rey, CA 90292",
+        "rating": 4.4,
+        "distance": 1.7,
+        "average_price": 250
+    },
+    {
+        "hotel_name": "The Ritz-Carlton, Marina del Rey",
+        "address": "4375 Admiralty Way, Marina del Rey, CA 90292",
+        "rating": 4.7,
+        "distance": 1.7,
+        "average_price": 350
+    },
+    {
+        "hotel_name": "Jamaica Bay Inn",
+        "address": "4175 Admiralty Way, Marina del Rey, CA 90292",
+        "rating": 4.4,
+        "distance": 1.8,
+        "average_price": 220
+    },
+    {
+        "hotel_name": "Foghorn Harbor Inn",
+        "address": "4041 Via Marina, Marina del Rey, CA 90292",
+        "rating": 4.3,
+        "distance": 2.0,
+        "average_price": 200
+    },
+    {
+        "hotel_name": "Marina del Rey Marriott",
+        "address": "4100 Admiralty Way, Marina del Rey, CA 90292",
+        "rating": 4.4,
+        "distance": 2.1,
+        "average_price": 280
+    },
+    {
+        "hotel_name": "Hilton Garden Inn Marina del Rey",
+        "address": "4200 Admiralty Way, Marina del Rey, CA 90292",
+        "rating": 4.4,
+        "distance": 2.2,
+        "average_price": 250
+    },
+    {
+        "hotel_name": "Residence Inn Los Angeles LAX/El Segundo",
+        "address": "2135 E El Segundo Blvd, El Segundo, CA 90245",
+        "rating": 4.5,
+        "distance": 3.5,
+        "average_price": 220
+    },
+    {
+        "hotel_name": "Hyatt Regency Los Angeles International Airport",
+        "address": "6225 W Century Blvd, Los Angeles, CA 90045",
+        "rating": 4.4,
+        "distance": 4.5,
+        "average_price": 280
+    },
+    {
+        "hotel_name": "Sheraton Gateway Los Angeles Hotel",
+        "address": "6101 W Century Blvd, Los Angeles, CA 90045",
+        "rating": 4.3,
+        "distance": 4.6,
+        "average_price": 250
+    },
+    {
+        "hotel_name": "Los Angeles Airport Marriott",
+        "address": "5855 W Century Blvd, Los Angeles, CA 90045",
+        "rating": 4.4,
+        "distance": 4.7,
+        "average_price": 220
+    },
+    {
+        "hotel_name": "Renaissance Los Angeles Airport Hotel",
+        "address": "9620 Airport Blvd, Los Angeles, CA 90045",
+        "rating": 4.4,
+        "distance": 4.8,
+        "average_price": 280
+    },
+    {
+        "hotel_name": "Westin Los Angeles Airport",
+        "address": "5400 W Century Blvd, Los Angeles, CA 90045",
+        "rating": 4.4,
+        "distance": 4.9,
+        "average_price": 250
+    },
+    {
+        "hotel_name": "La Quinta Inn & Suites LAX",
+        "address": "5241 W Century Blvd, Los Angeles, CA 90045",
+        "rating": 4.3,
+        "distance": 5.0,
+        "average_price": 200
+    },
+    {
+        "hotel_name": "Fairfield Inn & Suites by Marriott Los Angeles LAX/El Segundo",
+        "address": "525 N Pacific Coast Hwy, El Segundo, CA 90245",
+        "rating": 4.4,
+        "distance": 5.1,
+        "average_price": 220
+    },
+    {
+        "hotel_name": "Homewood Suites by Hilton Los Angeles International Airport",
+        "address": "5170 W Century Blvd, Los Angeles, CA 90045",
+        "rating": 4.5,
+        "distance": 5.2,
+        "average_price": 280
+    },
+    {
+        "hotel_name": "Embassy Suites by Hilton Los Angeles International Airport",
+        "address": "5250 W Century Blvd, Los Angeles, CA 90045",
+        "rating": 4.4,
+        "distance": 5.3,
+        "average_price": 250
+    },
+    {
+        "hotel_name": "Courtyard by Marriott Los Angeles LAX/Century Boulevard",
+        "address": "6161 W Century Blvd, Los Angeles, CA 90045",
+        "rating": 4.4,
+        "distance": 5.4,
+        "average_price": 220
+    }
+]

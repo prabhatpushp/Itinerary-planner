@@ -1,0 +1,18 @@
+Get a list of hotels near {place} in city {city}. Include the following information for each hotel:
+
+Hotel name
+Address
+Rating (out of 5 stars)
+Distance from {place} (in miles)
+Average price per night (in USD)
+Return the list of hotels in JSON format, with the following schema:
+
+[ { "hotel_name": string, "address": string, "rating": number (out of 5), "distance": number (in miles), "average_price": number (in USD) }, ... ]
+
+I want accurate outputs. please write at least 20 hotels in json
+
+
+INPUTS
+===================
+place = Venice Beach Boardwalk
+city = los angeles

@@ -1,0 +1,26 @@
+
+Prompt:
+
+Please write all the tourist places in {place} within {distance} from nearest airport. My purpose of visit is to visit tourist places.
+I want the output in json format. Json schema to be followed:
+[{
+  place: name of the tourist spot,
+  why_to_visit: tourist attraction (at least 100 words),
+  best_time_to_visit_day: best time to visit during day (specific like morning, evening, night),
+  best_time_to_visit_month: best month to visit to enjoy to fullest (march to april),
+  distance: distance from airport in miles (approximate range),
+  how_to_reach: travel options to reach this place (be specific)
+}, .....]
+
+
+return the list of such place objects. I want at least 20 such places. also do not repeat. do not write prices and brand names. only try to write facts and give accurate data. please insert all type of places of each variety. please consider all type of places, like parks, buildings, historical monuments, natural places for scenic beauty, some other important place to visit as a tourist etc
+
+
+
+
+
+
+INPUTS
+================
+place = los angeles
+distance = 50 miles
