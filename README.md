@@ -25,7 +25,7 @@ The Itinerary Planner is a web application that helps users plan their trips by 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <YOUR_GIT_URL>
+   git clone https://github.com/prabhatpushp/Itinerary-planner
    cd itinerary-planner
    ```
 2. Install the required dependencies:
